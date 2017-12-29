@@ -4,7 +4,7 @@
   "description": "Create Oldschool RuneScape accounts automatically with proxy support",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "./node_modules/.bin/babel-node index.js"
   },
   "author": "Mason Prey (mprey)",
   "license": "ISC",
